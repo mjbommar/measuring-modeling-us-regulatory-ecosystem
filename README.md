@@ -3,8 +3,8 @@
 ==================
   *  __Title__: Measuring and Modeling the US Regulatory Ecosystem
   *  __Authors__: [Michael J Bommarito II](https://www.linkedin.com/in/bommarito), [Daniel Martin Katz](https://www.linkedin.com/in/daniel-katz-3b001539/)
-  * __Publication URL__: [Journal of Statistical Physics](#), URL pending.
-  * __Publication Cite__: DOI: 10.1007/s10955-017-1846-3
+  * __Publication URL__: [Journal of Statistical Physics](https://link.springer.com/article/10.1007/s10955-017-1846-3)
+  * __Publication Cite__: Bommarito II, M.J. & Katz, D.M. J Stat Phys (2017). doi:10.1007/s10955-017-1846-3
   *  __Paper URL__: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2891494](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2891494)
 
 ## Paper Abstract
